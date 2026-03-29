@@ -1,89 +1,69 @@
 <h1 align="center">Hi 👋, I'm Avishka Mittal</h1>
-<h3 align="center">CSE Student | DSA Enthusiast | AI/ML Explorer</h3>
 
 <p align="center">
-  📍 Jabalpur, India <br>
-  🎓 Jabalpur Engineering College (2024–2028) <br>
-  💡 Passionate about problem solving, AI, and building impactful projects
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=CSE+Student;DSA+Enthusiast;AI/ML+Explorer;Competitive+Programmer&center=true&width=500&height=45">
+</p>
+
+<p align="center">
+  📍 Jabalpur, India • 🎓 Jabalpur Engineering College <br>
+  💡 Building projects + solving problems consistently
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🔭 Currently working on **AI/ML & DSA projects**
-- 🌱 Learning **Machine Learning, System Design & Advanced DSA**
-- 💻 Solved **500+ problems on CodeChef & 250+ on LeetCode**
+- 🔭 Working on **AI/ML + DSA Projects**
+- 💻 Solved **750+ problems** (CodeChef + LeetCode + others)
 - 🏆 JEE Mains 94.01 percentile | UCEED AIR 166
-- 🎯 Goal: Crack top internships & build strong real-world projects
+- ⚡ Core Member @ JLUG (Open Source Community)
+- 🎯 Goal: Crack top tech internships
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:**
-`C` `C++` `Python` `JavaScript`
-
-**Core CS:**
-`Data Structures & Algorithms` `OOP` `Time & Space Complexity`
-
-**AI/ML:**
-`NumPy` `Pandas` `Machine Learning` `EDA`
-
-**Web:**
-`HTML` `CSS` `Responsive Design`
-
-**Tools:**
-`Git` `GitHub` `VS Code`
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,git,github,vscode" />
+</p>
 
 ---
 
 ## 📊 Competitive Programming
 
-- 💻 CodeChef: **1458 rating** (500+ problems)
-- 🧠 LeetCode: **1670 rating** (250+ problems)
-- ⚡ HackerRank: 5⭐ C++, Problem Solving
+- 💻 CodeChef: **1458 rating**
+- 🧠 LeetCode: **1670 rating**
+- ⚡ HackerRank: 5⭐
 - 🏁 Codeforces: 891+
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🔹 Kaha Chale
-Travel discovery web app with interactive UI & curated suggestions  
-
-### 🔹 Jarvis Voice Assistant
-AI-powered voice assistant with wake-word detection & LLM integration  
-
-### 🔹 Weather App
-Real-time weather app using API integration  
-
-### 🔹 Portfolio Website
-Responsive personal portfolio  
+🔹 **Kaha Chale** – Travel discovery web app  
+🔹 **Jarvis Voice Assistant** – AI assistant with voice + LLM  
+🔹 **CNN Cats vs Dogs** – Image classification model  
+🔹 **Portfolio Website** – Responsive personal site  
 
 ---
 
-## 🏆 Achievements
+## 📈 GitHub Stats
 
-- 🥇 Top 3 in class (1st–3rd semester)
-- 🚀 Flipkart GRiD 7.0 (DSA round cleared)
-- 💡 Smart India Hackathon (Top 45 teams in college)
-
----
-
-## 📜 Certifications
-
-- Responsive Web Design — freeCodeCamp  
-- Python for Data Science — NPTEL (IIT Madras)  
-- Competitive Programming — NPTEL  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=debuggingAvishka&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=debuggingAvishka&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/debuggingAvishka)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avishka-mittal-3a8311318)
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:avishkamittal90@gmail.com)
+<p align="center">
+<a href="https://github.com/debuggingAvishka"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/avishka-mittal-3a8311318"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
+<a href="mailto:avishkamittal90@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white"></a>
+</p>
+
 ---
 
 ## ⚡ Fun Fact
-I love combining creativity with logic — from design to algorithms 🚀
+I enjoy blending creativity with logic — from design to algorithms ✨
