@@ -82,7 +82,7 @@ Responsive personal portfolio
 
 <p align="left">
 <a href="https://github.com/debuggingAvishka" target="blank">GitHub</a> |
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank">LinkedIn</a> |
+<a href="(https://linkedin.com/in/avishkamittal" target="blank">LinkedIn</a> |
 <a href="mailto:avishkamittal90@gmail.com">Email</a>
 </p>
 
