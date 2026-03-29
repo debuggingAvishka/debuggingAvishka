@@ -80,12 +80,11 @@ Responsive personal portfolio
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://github.com/debuggingAvishka" target="blank">GitHub</a> |
-<a href="www.linkedin.com/in/avishka-mittal-3a8311318" target="blank">LinkedIn</a> |
-<a href="mailto:avishkamittal90@gmail.com">Email</a>
-</p>
+## 🌐 Connect With Me
 
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/debuggingAvishka)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avishka-mittal-3a8311318)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:avishkamittal90@gmail.com)
 ---
 
 ## ⚡ Fun Fact
