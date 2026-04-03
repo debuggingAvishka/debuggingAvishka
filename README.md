@@ -54,15 +54,6 @@ Responsive personal portfolio showcasing projects & achievements
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=debuggingAvishka&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debuggingAvishka&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -75,5 +66,4 @@ Responsive personal portfolio showcasing projects & achievements
 
 ## ⚡ Fun Fact
 I enjoy blending creativity with logic — from design to algorithms ✨
-## ⚡ Fun Fact
-I enjoy blending creativity with logic — from design to algorithms ✨
+
