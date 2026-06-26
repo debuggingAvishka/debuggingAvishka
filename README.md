@@ -12,7 +12,7 @@
 
 🚀 About Me
 
-* 💻 Solved 1300+ DSA & Competitive Programming problems across LeetCode, CodeChef, Codeforces, HackerRank and GeeksforGeeks.
+* 💻 Solved 700+ DSA & Competitive Programming problems across LeetCode, CodeChef, Codeforces, HackerRank and GeeksforGeeks.
 * 🏆 NPTEL Discipline Star (Computer Science & Engineering).
 * 🤖 Selected for the AIforAll Global International AI Internship 2026.
 * 🎯 Interested in Software Engineering, AI/ML, Generative AI and Backend Development.
@@ -56,7 +56,7 @@ Tools
 
 📊 Competitive Programming
 
-* 🧠 1300+ Problems Solved
+* 🧠 700+ Problems Solved
 * 🟨 LeetCode
     * Max Rating: 1712+
     * Contest Rating: 1663
