@@ -49,7 +49,7 @@ AI / ML
 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ⸻
