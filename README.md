@@ -58,7 +58,7 @@ Tools
 
 * 🧠 700+ Problems Solved
 * 🟨 LeetCode
-    ![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
+    * ![Leetcode Stats](https://leetcard.n7nR5FFAlv.cool/JacobLinCool)
    
 * ⭐ CodeChef
     * Max Rating: 1459 (2★)
