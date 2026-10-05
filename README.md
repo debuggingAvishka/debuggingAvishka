@@ -58,8 +58,7 @@ Tools
 
 * 🧠 700+ Problems Solved
 * 🟨 LeetCode
-    * [![Leetcode Stats]([https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcard.jacoblin.cool/n7nR5FFAlv?theme=dark&font=Anek%20Gurmukhi&ext=activity)](https://leetcode.com/u/n7nR5FFAlv/)
-   
+    * ![Leetcode Stats](https://leetcard.jacoblin.cool/n7nR5FFAlv)
 * ⭐ CodeChef
     * Max Rating: 1459 (2★)
 * 🔵 Codeforces
