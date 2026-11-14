@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Avishka Mittal</h1>
+# Hi 👋, I'm Avishka Mittal
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Undergraduate;Software+Engineering+Enthusiast;AI+%7C+Machine+Learning;Competitive+Programmer;Building+Real-World+Projects&center=true&width=650&height=45" alt="Typing introduction">
@@ -34,7 +34,7 @@
 **Frontend & Backend Development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,express,vite" alt="HTML, CSS, React, Tailwind, Node.js, Express and Vite">
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,express,vite,flask" alt="HTML, CSS, React, Tailwind, Node.js, Express, Vite and Flask">
 </p>
 
 **AI / ML**
@@ -42,13 +42,14 @@
 - Machine Learning and Deep Learning fundamentals
 - Natural Language Processing
 - Transformers and LLM applications
+- Face recognition and voice-based recognition workflows
 - OpenAI-compatible APIs and OpenRouter
 - Streamlit
 
-**Tools**
+**Tools & Platforms**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" alt="Git, GitHub, VS Code and Docker">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,supabase" alt="Git, GitHub, VS Code, Docker and Supabase">
 </p>
 
 ---
@@ -71,22 +72,34 @@
 [![Live Demo](https://img.shields.io/badge/Live-Demo-2563EB?style=for-the-badge)](https://article-iq.vercel.app)
 [![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/debuggingAvishka/ArticleIQ)
 
-An AI-powered news analysis application that evaluates credibility signals, bias, emotional tone and evidence quality. It supports article URL/text input and presents neutral summaries, claim breakdowns and hypothetical framing comparisons in an interactive dashboard.
+An AI-powered news analysis application that evaluates credibility signals, bias, emotional tone and evidence quality. Users can submit article text or a public URL and explore AI-generated neutral summaries, claim breakdowns, explanations and hypothetical framing comparisons.
 
-**Built with:** React, TypeScript, Vite, Tailwind CSS, Node.js, Express, Cheerio, OpenRouter  
+**Tech:** React, TypeScript, Vite, Tailwind CSS, Node.js, Express, Cheerio, OpenRouter  
 **Deployment:** Vercel (frontend) · Render (backend)
 
-### 🎓 SnapClass
+### 🗺️ [KAHA CHALE — Jabalpur Place Discovery](https://github.com/debuggingAvishka/KAHA-CHALE-)
 
-AI-powered attendance management application using face recognition, voice recognition, Streamlit and Supabase.
+A regional place-discovery web app focused on Jabalpur and nearby destinations. It supports directory browsing, search and filters, region-based exploration, and a mood quiz that recommends places using available metadata and user-selected preferences. Includes guest browsing and Supabase authentication.
 
-### 📄 Text Summarizer App
+**Tech:** React 19, TypeScript, Vite, Tailwind CSS v4, React Router, Supabase (PostgreSQL & Auth)
+
+### 🎓 [SnapClass — AI Attendance Management](https://github.com/debuggingAvishka/SnapClass)
+
+[![Live Demo](https://img.shields.io/badge/Live-App-2E8B57?style=for-the-badge)](https://snapclass-am.streamlit.app/)
+
+An AI-assisted attendance management system for teachers and students. Teachers can manage subjects, enrollments and attendance records; students can register, enroll in subjects and view attendance statistics. The system supports face-recognition-based attendance and optional voice-based verification.
+
+**Tech:** Python, Streamlit, Supabase, Face Recognition, Resemblyzer, NumPy, Pillow
+
+### 🖥️ [SnapClass Frontend — Product Landing Page](https://github.com/debuggingAvishka/SnapClass-Frontend)
+
+A separate Flask-based presentation website for SnapClass, introducing its features, technology stack, and teacher/student workflows through a responsive landing page.
+
+**Tech:** Python, Flask, HTML, CSS
+
+### 📄 [Text Summarizer App](https://github.com/debuggingAvishka)
 
 Transformer-based text summarization application built with FastAPI and NLP pipelines.
-
-### 🗺️ Kaha Chale
-
-A local discovery and recommendation project focused on helping people explore places through categories, filters and personalized recommendations.
 
 ---
 
