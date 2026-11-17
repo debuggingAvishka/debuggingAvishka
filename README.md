@@ -106,8 +106,8 @@ Transformer-based text summarization application built with FastAPI and NLP pipe
 ## 🏅 Achievements
 
 - 🏆 NPTEL Discipline Star — Computer Science & Engineering
-- 🥇 NPTEL Joy of Computing with Python — Elite + Gold + Topper (score 100%)
-- 🥈 NPTEL Optimization for Machine Learning — Elite + Silver + Top Performer
+- 🥇 NPTEL Joy of Computing with Python — Elite + Gold + Course Topper (score 100%)
+- 🥈 NPTEL Optimization for Machine Learning — Elite + Silver + Course Topper
 - 🤖 AIforAll Global International AI Internship 2026 — Selected
 - 🎯 Smart India Hackathon — College Round Qualifier
 - 🛒 Flipkart GRiD Participant
